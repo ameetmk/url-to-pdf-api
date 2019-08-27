@@ -1,4 +1,4 @@
-FROM node:boron
+FROM buildkite/puppeteer
 
 #RUN npm install -g yarn
 
